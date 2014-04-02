@@ -1,0 +1,27 @@
+{
+  "name": "NWEN304lab2",
+  "version": "0.0.0",
+  "description": "This app is cool.",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasLuo/nwen304-2014-lab2.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "LucasLuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasLuo/nwen304-2014-lab2/issues"
+  },
+  "homepage": "https://github.com/LucasLuo/nwen304-2014-lab2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
